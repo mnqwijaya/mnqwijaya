@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mnqwijaya
-- 👀 I’m interested in IT microservices and opensource world
-- 🌱 I’m currently learning DevOps and Kubernetes
+- 👀 I’m interested in OpenInfra, Cloud Native Geospatial (CNG) and Spatial Data Infrastructure (SDI) world
+- 🌱 I’m currently learning DevOps, Kubernetes, GIS, NG, and Openstack
 - 💞️ I’m looking to collaborate on with you all
 - 📫 How to reach me mnqwijaya@gmail.com
 
